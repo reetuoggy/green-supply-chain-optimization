@@ -1,0 +1,5 @@
+Transport_Mode,Cost_Per_Km_Ton,CO2_Kg_Per_Km_Ton,Avg_Transit_Days
+Air,2.5,1.65,2
+Road,0.45,0.36,5
+Rail,0.15,0.09,10
+Ocean,0.08,0.045,25
